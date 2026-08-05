@@ -6,3 +6,5 @@ This is my personal GitHub project created for the Software Engineering laborato
 This repository demonstrates basic Git and GitHub operations such as cloning, editing, committing, and pushing changes.
 
 This repository was updated as part of Exercise 26.
+
+Updated by collaborator for Exercise 28.
