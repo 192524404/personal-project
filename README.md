@@ -8,3 +8,6 @@ This repository demonstrates basic Git and GitHub operations such as cloning, ed
 This repository was updated as part of Exercise 26.
 
 Updated by collaborator for Exercise 28.
+
+This repository was updated as part of Exercise 26.
+
